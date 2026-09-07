@@ -1,0 +1,6 @@
+{
+  "name": "My Money Manager",
+  "description": "A comprehensive personal income, expense, savings and money management application with yearly analytics, budgets and goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
